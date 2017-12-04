@@ -1,11 +1,9 @@
 { "author" : "Rad Poznyakov",
-  "version" : "0.0.3",
+  "version" : "0.0.1",
   "description" : "Icons for Trinetix",
   "name" : "My",
-  "appcast": "https://excellent.sketchplugin.com/excellent-plugin-appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/radpoznyakov/testPlugin/master/src/appcast.xml",
   "authorEmail" : "rad.poznyakov@trinetix.com",
-  "compatibleVersion": 3,
-  "bundleVersion": 1,
   "commands": [
     {
       "name": "my-command",
